@@ -1,4 +1,5 @@
 # CS615 Group 3 Project
+## Academic work, Msc Data Science and Analytics, Maynooth University.
 
 The project is built using the following technologies & standards:
  - NodeJS
