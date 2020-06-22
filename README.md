@@ -1,6 +1,9 @@
 # CS615 Group 3 Project
 ## Academic work, Msc Data Science and Analytics, Maynooth University.
 
+Using this application, a user will be able to login, create update and delete tasks. They can then create experiments and assign the
+created tasks to those experiments. All users are allowed to edit and update experiments as well.
+
 The project is built using the following technologies & standards:
  - NodeJS
  - MySQL
@@ -49,7 +52,3 @@ The project is built using the following technologies & standards:
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate (if you can find them :wink:).
-
-## License
-[ISC](https://choosealicense.com/licenses/isc/)
